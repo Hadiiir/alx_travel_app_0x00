@@ -1,0 +1,6 @@
+Django==5.1.4
+djangorestframework==3.14.0
+drf-yasg==1.21.3
+mysqlclient==2.2.0  # You might be using this for MySQL database
+django-cors-headers==3.13.0
+python-dotenv==1.0.0  # For managing environment variables
